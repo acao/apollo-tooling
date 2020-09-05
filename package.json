@@ -55,7 +55,7 @@
     "@fancy-test/nock": "0.1.1",
     "@oclif/dev-cli": "1.22.2",
     "@oclif/test": "1.2.7",
-    "@types/babel-types": "7.0.7",
+    "@types/babel-types": "7.0.9",
     "@types/babel__generator": "7.6.1",
     "@types/common-tags": "1.8.0",
     "@types/cosmiconfig": "5.0.3",
